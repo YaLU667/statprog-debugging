@@ -1,3 +1,5 @@
+# cloned reflection
+
 # Reflection Log 1
 
 This week I learned about writing functions in R.
